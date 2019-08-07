@@ -20,6 +20,6 @@ arr2 = list(input("Enter arr2= "))
 m = len(arr1)
 n = len(arr2)
 if areEqual(arr1, arr2, m, n):
-    print("Equal")
+    print("Yes")
 else:
-    print("Not Equal")
+    print("No")
